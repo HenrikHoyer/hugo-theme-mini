@@ -18,6 +18,8 @@ Features:
 - Tags
 
 
+TESTING GH signed commit
+
 ## 1. Installation
 
 
